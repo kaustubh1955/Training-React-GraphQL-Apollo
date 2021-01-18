@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Imglink should render correctly in given mode 1`] = `
+<img
+  className="gugl"
+  src="AppStoreBadge.png"
+/>
+`;

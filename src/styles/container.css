@@ -1,0 +1,36 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    overflow-y:hidden;
+    padding-top: 20px;
+  }
+  .buttons {
+    height: 80px;
+    width: 379px;
+  }
+  /* Control the left side */
+  .left {
+    left: 0;
+    background-color: #FEE7DE;
+  }
+  
+  /* Control the right side */
+  .right {
+      right: 0;
+      background-size: 720px;
+  }
+
+  .Lorem{
+    margin-left: 60px;
+	margin-top: 200px;
+  }
+
+  #gugl{
+    position: fixed;
+    left: 232px;
+    bottom: 100px;
+  }

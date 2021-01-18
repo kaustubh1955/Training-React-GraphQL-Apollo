@@ -1,0 +1,28 @@
+.bullets{
+	position: absolute;
+	height: 153px;
+  	width: 220px;
+	top: 497px;
+	margin-left: 110px;
+}
+
+.type-text{
+    height: 27px;
+    width: 80px;
+    color: #FFFFFF;
+    font-family: "Banana Grotesk";
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: -0.12px;
+    line-height: 27px;
+  }
+  .lorem-ipsum-is-simpl {
+    height: 81px;
+    width: 220px;
+    color: #FFE8DF;
+    font-family: "Banana Grotesk";
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: -0.11px;
+    line-height: 27px;
+  }

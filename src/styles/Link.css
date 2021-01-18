@@ -1,0 +1,16 @@
+#menu{
+    margin-left: 451px;
+	word-spacing: 20px;
+}
+.men{
+    margin-right: 21px;
+	text-decoration: none;
+	height: 27px;
+	width: 26px;
+	color: #F7F7F7;
+	font-family: "BananaGrotesk-Semibold";
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 0;
+	line-height: 27px;
+}
